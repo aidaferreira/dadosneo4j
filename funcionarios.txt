@@ -1,0 +1,3 @@
+﻿name;email;dept
+"Aida Ferreira";"aidaaf@gmail.com";"DASE/CSIN"
+"Ronaldo Aquino";"rrbaquino@gmail.com"; "DEEQ/LDSP"
